@@ -80,6 +80,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 
 | Test Dataset | Image source |
 |:----:|:----:|
+| **UHDSR4K** | [Zhang et al. ICCV2021](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)  |
+| **UHDSR8K** | [Zhang et al. ICCV2021](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)  |
 | **Set 5** |  [Bevilacqua et al. BMVC 2012](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12.html)  |
 | **Set 14** |  [Zeyde et al. LNCS 2010](https://sites.google.com/site/romanzeyde/research-interests)  |
 | **BSD 100** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
@@ -87,6 +89,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 
 | Train Dataset | Image source |
 |:----:|:----:|
+| **UHDSR4K** | [Zhang et al. ICCV2021](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)  |
+| **UHDSR8K** | [Zhang et al. ICCV2021](https://github.com/HDCVLab/Benchmarking-Ultra-High-Definition-Image-Super-resolution)  |
 | **Yang 91** |  [Yang et al. CVPR 2008](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)  |
 | **BSD 200** | [Martin et al. ICCV 2001](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) |
 | **General 100** | [Dong et al. ECCV 2016](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html) |
